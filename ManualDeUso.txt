@@ -1,0 +1,44 @@
+Panel de Administración:
+
+<<<<<<< HEAD
+
+
+- Sección NUEVAS EVALUACIONES
+
+Aquí se cargaran las nuevas evaluaciones que los usuarios realicen, estás
+deben ser revisadas por el administrador antes de que puedan ser publicadas.
+
+Se deberán cumplir ciertos criterios que aún estan siendo seleccionados.
+
+
+
+=======
+- Sección NUEVAS EVALUACIONES
+Aquí se cargaran las nuevas evaluaciones que los usuarios realicen, estás
+deben ser revisadas por el administrador antes de que puedan ser publicadas.
+Se deberán cumplir ciertos criterios que aún estan siendo seleccionados.
+
+>>>>>>> 193739c7e9e81d7ebb8afc3384b025349ea5b0c7
+Opción 'Requiere Modificaciones'-> Si la evaluación realizada no cumple con
+los criterios establecidos se deberá notificar al usuario que la realizó para
+que haga las modificaciones pertinentes.
+
+<<<<<<< HEAD
+
+
+Opción 'Publicar'-> Si la evaluación cumple con los criterios establecidos, está
+ será publicada.
+
+
+LOS ESTADOS PARA LAS ASESORÍAS Y LAS EVALUACIONES SON LOS SIGUIENTES:
+Estado->1 (Enviada a revisión)
+
+Estado->2 (Publicada)
+Estado->3(Dado baja por usuario)
+=======
+Opción 'Publicar'-> Si la evaluación cumple con los criterios establecidos, está
+será publicada.
+
+Estado->1 (Enviada a revisión)
+Estado->2 (Publicada)
+>>>>>>> 193739c7e9e81d7ebb8afc3384b025349ea5b0c7

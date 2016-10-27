@@ -1,0 +1,7 @@
+{
+  "name": "Comunidad ITCM",
+  "short_name": "Comunidad ITCM",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "your_own_id"
+}
